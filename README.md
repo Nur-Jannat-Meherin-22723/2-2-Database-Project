@@ -1,1 +1,1 @@
-# Database_Project-2-2
+This is my 2nd Year 2nd semester projectfor the Lab course of Database Management System, with a teammate. Here htmlis used for the frontend design. php and javascript are used for the backend. For database management, Mysql is used using Xampp software. The project can be run in any browser, using localhost.
